@@ -1,0 +1,30 @@
+Code has following classes:
+ 1. Grid : It has the following data members
+ a. N : size of the grid 
+ b. start : original position of the player
+ c. goal: final position of the player 
+ d. myObstacles: an array of obstacles 
+ e. myRewards: an array of rewards 
+ 
+ It has the following functions:
+ a. rotateClockwise(n) : rotates the grid clockwise n times by 90o.
+ b. rotateAnticlockwise(n) : rotates the grid anti-clockwise n times by 90o.
+ c. showGrid() : prints the grid on the console.
+ Obstacles are represented by ‘#’, rewards by its corresponding value, empty cells by ‘.’ and the player by ‘O’
+ For rotate functions, if after rotation the player’s position will coincide with that of an obstacle, a message saying that the grid can’t be rotated is printed
+ 
+ 2. Obstacle: An obstacle on the grid will be represented by a ‘#’ character. 
+ It will have the following data members: a. x: x coordinate of the obstacle b. y: y coordinate of the obstacle 
+ 
+ 3. Reward: A reward can have values between 1 and 9. It will have the following data members: 
+ a. x: x coordinate of the reward 
+ b. y: y coordinate of the reward 
+ c. value: an integer v, 1≤ v ≤9. 
+ 
+ 4. Player: It will have the following data members:
+ a. x: the x coordinate of the player 
+ b. y: the y coordinate of the player 
+ c. energy: the energy of the player 
+ It will have the following function:
+ a. makeMove(s): where s is to be taken as input from the player and corresponding move is to be made. 
+ 
