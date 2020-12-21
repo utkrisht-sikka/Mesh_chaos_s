@@ -1,6 +1,6 @@
 <h1>Mesh_chaos_s</h1>
 
-Ethan is lost in a maze and has limited energy to move .Guide him through the grid so that he reaches his goal before he runs out of his energy.
+Ethan is lost in a maze and has limited energy to move .Guide him through the grid so that he reaches his goal using his energy.
 
 <h1>Installation Guide</h1>
 
