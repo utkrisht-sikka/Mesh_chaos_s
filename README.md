@@ -4,7 +4,7 @@ Ethan is lost in a maze and has limited energy to move .Guide him through the gr
 
 <h1>Installation Guide</h1>
 
-The game has been written in python3.Download the python file from https://github.com/utkrisht-sikka/Mesh_chaos_s/blob/master/Mesh_chaos_s.py
+The game has been written in python3. Download the python file from https://github.com/utkrisht-sikka/Mesh_chaos_s/blob/master/Mesh_chaos_s.py
 
 For Windows users:
 <ol>
