@@ -7,21 +7,23 @@ Ethan is lost in a maze and has limited energy to move .Guide him through the gr
 The game has been written in python3.Download the python file from https://github.com/utkrisht-sikka/Mesh_chaos_s/blob/master/Mesh_chaos_s.py
 
 For Windows users:
-1.Open cmd.
-2.Go to the directory where the file Mesh_chaos_s.py is present by using 
+<ol>
+<li>Open cmd.</li>
+<li>2.Go to the directory where the file Mesh_chaos_s.py is present by using 
 cd c:
-cd Users\<your username>\Downloads
-3.Run by using 
-python Mesh_chaos_s.py
-
+cd Users\<your username>\Downloads</li>
+<li>Run by using 
+python Mesh_chaos_s.py</li>
+</ol>
 For linux users
-1.open terminal 
-2.Go to the directory where the file Mesh_chaos_s.py is present by using 
-cd Downloads
-3.Run by using 
-python3 Mesh_chaos_s.py
-4. Enter a number .It will denote size of grid.
-<img url="https://github.com/utkrisht-sikka/Mesh_chaos_s/blob/master/Mesh_chaos_s.py">
+<li>open terminal </li>
+<li>Go to the directory where the file Mesh_chaos_s.py is present by using 
+cd Downloads</li>
+<li>Run by using </li>
+python3 Mesh_chaos_s.py</li>
+<li> Enter a number .It will denote size of grid.</li>
+</ol>
+<img src="example.PNG" width="350" >
 <h1>Contribution</h1>
 
 I will welcome any kind of contribution like adding colours, background, sound effect, or any idea of extending storyline, adding more rules in the game.
