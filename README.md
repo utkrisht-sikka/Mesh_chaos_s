@@ -9,7 +9,7 @@ The game has been written in python3.Download the python file from https://githu
 For Windows users:
 <ol>
 <li>Open cmd.</li>
-<li>2.Go to the directory where the file Mesh_chaos_s.py is present by using 
+<li>Go to the directory where the file Mesh_chaos_s.py is present by using 
 cd c:
 cd Users\<your username>\Downloads</li>
 <li>Run by using 
