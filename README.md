@@ -10,19 +10,19 @@ For Windows users:
 <ol>
 <li>Open cmd.</li>
 <li>Go to the directory where the file Mesh_chaos_s.py is present by using 
-cd c:
-cd Users\<your username>\Downloads</li>
+'cd c:'
+'cd Users\<your username>\Downloads'</li>
 <li>Run by using 
-python Mesh_chaos_s.py</li>
+'python Mesh_chaos_s.py'</li>
 <li> Enter a number .It will denote size of grid.</li>
 </ol>
 For linux users
 <ol>
 <li>Open terminal. </li>
 <li>Go to the directory where the file Mesh_chaos_s.py is present by using 
-cd Downloads</li>
+'cd Downloads'</li>
 <li>Run by using 
-python3 Mesh_chaos_s.py</li>
+'python3 Mesh_chaos_s.py'</li>
 <li> Enter a number .It will denote size of grid.</li>
 </ol>
 <img src="example.PNG" width="350" >
