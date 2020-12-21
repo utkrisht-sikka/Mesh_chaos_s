@@ -18,7 +18,7 @@ python Mesh_chaos_s.py</li>
 </ol>
 For linux users
 <ol>
-<li>open terminal </li>
+<li>Open terminal. </li>
 <li>Go to the directory where the file Mesh_chaos_s.py is present by using 
 cd Downloads</li>
 <li>Run by using 
