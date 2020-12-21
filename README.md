@@ -14,8 +14,10 @@ cd c:
 cd Users\<your username>\Downloads</li>
 <li>Run by using 
 python Mesh_chaos_s.py</li>
+<li> Enter a number .It will denote size of grid.</li>
 </ol>
 For linux users
+<ol>
 <li>open terminal </li>
 <li>Go to the directory where the file Mesh_chaos_s.py is present by using 
 cd Downloads</li>
